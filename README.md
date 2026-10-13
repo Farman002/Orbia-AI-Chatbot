@@ -57,11 +57,9 @@ Before running the application, install:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/orbia-ai-chatbot.git
+git clone https://github.com/Farman002/orbia-ai-chatbot.git
 cd nexa-ai-chatbot
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Create a virtual environment
 
@@ -248,7 +246,7 @@ Local model performance depends on available RAM, CPU/GPU resources, and other a
 
 Computer Science | Python Development | AI Applications
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Farman002
 
 LinkedIn: https://www.linkedin.com/in/farman-naim
 
